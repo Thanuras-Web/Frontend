@@ -1,0 +1,4 @@
+@import 'flowbite';          /* ✅ Correct placement */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
